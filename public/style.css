@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family: Gilroy;
+    src: url('Fonts/Radomir\ Tinkov\ -\ Gilroy-Light.otf'), 
+    url('Fonts/Radomir\ Tinkov\ -\ Gilroy-ExtraBold.otf');
+    font-weight: lighter;
+    font-style: normal;
+    
+}
+
+@font-face {
+    font-family: PTMono-Regular;
+    src: url('Fonts/PTMono-Regular.ttf');
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: PTMono-Regular;
+    justify-content: center;
+    margin: 0;
+}
